@@ -2,7 +2,8 @@
 
 #### I am currently learning React.js
 
-#### Need assistance with node.js
+#### I would also like to try some open-source
+
 
 <!--
 **shwet-aaa/shwet-aaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
